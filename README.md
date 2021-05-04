@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dipjerry
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning MERN 
+- 📫 How to reach me 
 
 <!---
 dipjerry/dipjerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
