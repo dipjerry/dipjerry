@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dipjerry
+- 👋 Hi, I’m Dipjyoti kashyap @dipjerry
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning MERN 
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/dip-jyoti-kashyap-3111181b1/ 
 
 <!---
 dipjerry/dipjerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
