@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dipjyoti kashyap @dipjerry
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning MERN 
+- 🌱 I’m currently learning Blockchain 
 - 📫 How to reach me https://www.linkedin.com/in/dip-jyoti-kashyap-3111181b1/ 
 
 <!---
