@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
   
 ### Blockchain
 <div align="center">
-<a href="https://www.hyperledger.org/use/fabric" target="_blank"><img style="margin: 10px" src="https://www.hyperledger.org/wp-content/uploads/2021/10/hyperledgerfoundation_horizontal-dark.svg" alt="JavaScript" height="50" /></a>
+<a href="https://www.hyperledger.org/use/fabric" target="_blank"><img style="margin: 10px" src="https://www.hyperledger.org/wp-content/uploads/2018/03/Hyperledger_Fabric_Logo_White.png" alt="JavaScript" height="50" /></a>
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
