@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
   
 ### Blockchain
 <div align="center">
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://www.hyperledger.org/use/fabric" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fhyperledger-logo%2F170005&psig=AOvVaw07lLb-qfp3j7MHcIdgxKOy&ust=1686756305055000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiM84PHwP8CFQAAAAAdAAAAABAE" alt="JavaScript" height="50" /></a>
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
