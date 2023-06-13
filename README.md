@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 </td>
 <td valign="top" width="20%">
+  
 ### Backend
 <div align="center">
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
@@ -50,7 +51,8 @@ You can click the Preview link to take a look at your changes.
 </td>
   
 <td valign="top" width="20%">  
- ### Blockchain
+  
+### Blockchain
 <div align="center">
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
@@ -70,6 +72,7 @@ You can click the Preview link to take a look at your changes.
 </td>
 
 <td valign="top" width="20%">
+  
 ### DevOps
 <div align="center">
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
